@@ -7,7 +7,7 @@ function showDetails(date) {
       '2023-02-18': 'AU Summit',
       '2023-02-28': 'UN Statistical Commission',
       '2023-03-03': 'Africa Environment Day and Wangari Maathai Day',
-      '2023-03-03': 'World Wildlife Day',
+      '2023-03-03_2': 'World Wildlife Day',
       '2023-03-05': 'LDC5 Conference',
       '2023-03-06': 'UN Commission on the Status of Women',
       '2023-03-08': 'International Women’s Day',
